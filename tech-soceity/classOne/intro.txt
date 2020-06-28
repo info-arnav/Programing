@@ -1,0 +1,11 @@
+Basic Plan
+
+basics of atleast one programming language
+basic hardware
+starting with our first project with iot
+integration of project with alexa/google home
+
+the next stage is mastering other language and then getting deeper into it.
+
+personal preference to start with is node js as we can actually see what we do as can even be used for frontend
+node js also helps in app and website development
