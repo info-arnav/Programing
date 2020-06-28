@@ -2,6 +2,7 @@
 
 # dependencies
 /CloudBlogWebApllication/node_modules
+/CloudBlogWebApllicationTypeScript/node_modules
 /extras/node_modules
 /webpack/node_modules
 /vasudha/node_modules
