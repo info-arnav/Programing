@@ -1,12 +1,7 @@
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
 # dependencies
-/CloudBlogWebApllication/node_modules
-/CloudBlogWebApllicationTypeScript/node_modules
-/typescriptwithreact/node_modules
-/extras/node_modules
-/webpack/node_modules
-/vasudha/node_modules
+/node_modules
 /.pnp
 .pnp.js
 
