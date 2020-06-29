@@ -1,4 +1,2 @@
-fetch("http://localhost:4000").then((value) => {
-    console.log(value);
-});
+console.log(40 - 0);
 //# sourceMappingURL=index.js.map
