@@ -1,10 +1,12 @@
 import React, { FunctionComponent } from "react";
 import logo from "./logo.svg";
 import "./App.css";
+import Sub from "./sub";
 
 const App: FunctionComponent = () => {
   return (
     <div className="App">
+      <Sub></Sub>
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
